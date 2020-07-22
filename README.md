@@ -1,3 +1,3 @@
 # hello-world
 Hi humans!
-I'm lianghao. I like Julia and Python
+Hubot here! I like Julia and Python.
